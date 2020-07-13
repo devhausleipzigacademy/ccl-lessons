@@ -40,9 +40,21 @@ Package Manager [Link](https://scoop.sh)
 
 Web Browser: [Download](https://www.google.com/chrome/)
 
+Mac:
+
+```bash
+brew cask install google-chrome
+```
+
 ### VS Code
 
 Code Editor: [Download](https://code.visualstudio.com/)
+
+Mac:
+
+```bash
+brew cask install visual-studio-code
+```
 
 ### Git
 
@@ -91,6 +103,12 @@ curl -L https://git.io/n-install | bash
 ### Docker
 
 Containerization [Link](https://www.docker.com/products/docker-desktop)
+
+Mac:
+
+```bash
+brew cask install docker
+```
 
 ## Accounts
 
