@@ -16,14 +16,20 @@ class="google-slides" allowfullscreen="true" mozallowfullscreen="true" webkitall
 
 ## Contacts
 
-Taylor Harvey
+#### Taylor Harvey
+
 taylor@codecampleipzig.de
+
 +49 15121675615‬
 
-Gabriel Heinrich
+#### Gabriel Heinrich
+
 gabriel@codecampleipzig.de
+
 +49 15789529664
 
-Franz Wollang
+#### Franz Wollang
+
 franz@codecampleipzig.de
+
 +49 ‭15752745064
