@@ -1,36 +1,112 @@
 # Setting up a Software Development Machine
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpcHiKYlbT1I2Wzk1UtZzK3b5zcsQx9F16nvjEIrH7iAPtFvhZe2aeXJH2kyLtO5G9VkTPAEkv88kE/embed?start=false&loop=false" class="google-slides" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+## Mac Specific
 
-## Software Installation
+### XCode
 
-- [Git](https://git-scm.com/)
-- [VS Code](https://code.visualstudio.com/)
-- [Node](https://nodejs.org/en/)
-- [Docker](https://www.docker.com/products/docker-desktop)
-- [Chrome](https://www.google.com/chrome/)
+Apple Developer Toolchain
 
-### Mac Script
-
+```bash
+xcode-select --install
 ```
-# Homebrew
-/usr/bin/ruby -e \
-  "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew update
+
+### Homebrew
+
+Package Manager
+
+```bash
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+## Windows Specific
+
+### WSL 2 with Ubuntu
+
+Windows Subsystem for Linux
+
+### scoop
+
+Package Manager
+
+## Tools
+
+### Chrome
+
+Web Browser
+
+[Download](https://www.google.com/chrome/)
+
+### VS Code
+
+Code Editor
+
+[Download](https://code.visualstudio.com/)
+
+### Git
+
+Source Code Version Control
+
+[Link](https://git-scm.com/)
+
+#### Mac
+
+```bash
 brew install git
-brew cask install \
-  visual-studio-code \
-  google-chrome \
-  docker
 ```
 
-## VS Code Setup
+#### WSL
 
-- Install execuatble in PATH
-- On Windows: Setup WSL as default shell
+```bash
+ sudo apt install git-all
+```
+
+### zsh
+
+Shell
+
+#### Mac
+
+```bash
+brew install zsh
+chsh -s /usr/local/bin/zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+#### WSL
+
+```bash
+apt install zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+### Node & npm
+
+Javascript Runtime & Package Manager
+
+[Download](https://nodejs.org/en/)
+
+#### Mac / WSL
+
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+```
+
+### Docker
+
+Containerization
+
+[Docker](https://www.docker.com/products/docker-desktop)
 
 ## Accounts
 
-- github
-- Discord
-- Code Camp home page
+### GitHub
+
+https://github.com
+
+### Discord
+
+https://discord.com/channels/665641579368677395
+
+### Code Camp Leipzig Learning Plattform
+
+https://codecampleipzig.netlify.app
