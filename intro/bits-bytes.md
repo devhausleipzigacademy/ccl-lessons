@@ -33,11 +33,17 @@ Decimal Binary  Hexadecimal
 ### Memory Units
 
 1 nibble = 4 bits
+
 1 byte = 8 bits
+
 1 word = 32 bits / 64bits (amount of memory a CPU can read / write)
+
 1 kilo byte = 1000 bytes
+
 1 mega byte = 1000000 bytes
+
 1 giga byte = 1000000000 bytes
+
 1 tera byte = 1000000000000 bytes
 
 ### Challenges
