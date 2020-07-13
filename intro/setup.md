@@ -1,4 +1,4 @@
-# Setting up a Software Development Machine
+# Setting up a developer machine
 
 ## Mac Specific
 
