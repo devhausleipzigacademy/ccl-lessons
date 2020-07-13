@@ -14,6 +14,14 @@ class="google-slides" allowfullscreen="true" mozallowfullscreen="true" webkitall
 - Eat and Drink. Feel free to go to the toilet without asking.
 - If you have to miss a day, tell us beforehand. Missing too many days is a potential reason to not be able to graduate.
 
+## Zoom Room
+
+Password
+
+```none
+263645
+```
+
 ## Contacts
 
 #### Taylor Harvey
