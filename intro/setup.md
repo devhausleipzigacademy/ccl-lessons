@@ -32,29 +32,23 @@ Package Manager
 
 ### Chrome
 
-Web Browser
-
-[Download](https://www.google.com/chrome/)
+Web Browser: [Download](https://www.google.com/chrome/)
 
 ### VS Code
 
-Code Editor
-
-[Download](https://code.visualstudio.com/)
+Code Editor: [Download](https://code.visualstudio.com/)
 
 ### Git
 
-Source Code Version Control
+Source Code Version Control: [Link](https://git-scm.com/)
 
-[Link](https://git-scm.com/)
-
-#### Mac
+Mac:
 
 ```bash
 brew install git
 ```
 
-#### WSL
+WSL:
 
 ```bash
  sudo apt install git-all
@@ -64,7 +58,7 @@ brew install git
 
 Shell
 
-#### Mac
+Mac:
 
 ```bash
 brew install zsh
@@ -72,7 +66,7 @@ chsh -s /usr/local/bin/zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-#### WSL
+WSL:
 
 ```bash
 apt install zsh
@@ -81,11 +75,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ### Node & npm
 
-Javascript Runtime & Package Manager
-
-[Download](https://nodejs.org/en/)
-
-#### Mac / WSL
+Javascript Runtime & Package Manager [Download](https://nodejs.org/en/)
 
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
@@ -93,9 +83,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 
 ### Docker
 
-Containerization
-
-[Docker](https://www.docker.com/products/docker-desktop)
+Containerization [Link](https://www.docker.com/products/docker-desktop)
 
 ## Accounts
 
