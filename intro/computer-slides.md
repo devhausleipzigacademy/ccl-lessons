@@ -12,14 +12,34 @@ Heart and Brain of the computer
 
 ---
 
-## What is a 2.2 GHz Dual Core Processor?
+# Motherboard
 
 ---
 
-## What are 4 GB of RAM?
+# I/O
 
 ---
 
-# What is the difference between RAM and a Hard drive?
+# Hard Drive
 
 ---
+
+# Network Controllers
+
+---
+
+# Peripherals
+
+---
+
+# Computer Assembly
+
+---
+
+- What is a 2.2 GHz Dual Core Processor?
+- How much GB's of RAM does your computer have?
+- What are the differences between RAM and Hard Drives?
+- What is a **hardware driver**?
+- Which other computer components can you name?
+- What are the different methods that bytes can be send over a network?
+- Try to name as many different devices that are computers as possible.

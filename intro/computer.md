@@ -64,4 +64,5 @@ hardware component that can be connected to one of the busses.
 - What are the differences between RAM and Hard Drives?
 - What is a **hardware driver**?
 - Which other computer components can you name?
+- What are the different methods that bytes can be send over a network?
 - Try to name as many different devices that are computers as possible.
