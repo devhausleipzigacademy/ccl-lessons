@@ -24,9 +24,15 @@ Package Manager
 
 Windows Subsystem for Linux
 
+Update Windows to at least Build 19041
+
+Run Powershell as Administrator
+
+[Guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+
 ### scoop
 
-Package Manager
+Package Manager [Link](https://scoop.sh)
 
 ## Tools
 
@@ -75,10 +81,11 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ### Node & npm
 
-Javascript Runtime & Package Manager [Download](https://nodejs.org/en/)
+Javascript Runtime & Package Manager.
+Node version manager: [n-install](https://github.com/mklement0/n-install)
 
 ```bash
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+curl -L https://git.io/n-install | bash
 ```
 
 ### Docker
