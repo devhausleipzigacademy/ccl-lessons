@@ -46,14 +46,34 @@ Decimal Binary  Hexadecimal
 
 1 tera byte = 1000000000000 bytes
 
-### Challenges
+### Summary
+
+One of the primary challenges of programming is to represent information in a
+format that can be implemented as bits. We have to **encode** the
+information we care about as bits before the computer can process it.
+
+The most frequent kind of information a computer has to deal with are positive
+integer numbers. Those can be represented using a base 2 digit system, which is
+also called **binary**
+
+### Check questions
 
 - What is one bit?
+- How many hex digits are necessary to represent one byte.
 - How many bytes are 64bits?
 - How many bits are in 100Mb?
 - What is 0xff (hex) in binary and decimal?
 - Write the numbers up to 20 in base 7
 - What is 11110000 in hexadecimal?
 - What is 110101 (binary) in decimal?
+
+### Terminology
+
+- Bit
+- Byte
+- Kilo, mega, tera
+- Decimal
+- Binary
+- Hexadecimal
 
 ### Challenge: Counting in binary with your fingers

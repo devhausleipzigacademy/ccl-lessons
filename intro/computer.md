@@ -78,6 +78,7 @@ hardware component that can be connected to one of the busses.
 
 - CPU
 - RAM
+- Computer memory
 - Motherboard
 - I/O
 - Bus
