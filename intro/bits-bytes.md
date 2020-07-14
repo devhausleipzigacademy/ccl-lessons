@@ -64,7 +64,7 @@ also called **binary**
 - How many bits are in 100Mb?
 - What is 0xff (hex) in binary and decimal?
 - Write the numbers up to 20 in base 7
-- What is 11110000 in hexadecimal?
+- What is 11110000 (binary) in hexadecimal?
 - What is 110101 (binary) in decimal?
 
 ### Terminology
