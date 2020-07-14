@@ -78,7 +78,7 @@ directly fed to a CPU, but can also be some other programming language.
 A directory filled with source code files. Every project has a separate
 repository.
 
-[Examples: GitHub](https://github.com/explore)
+[Examples: GitHub](https://github.com/trending)
 
 ## Summary
 
