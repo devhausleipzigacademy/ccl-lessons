@@ -7,37 +7,45 @@ very similar architecture under the hood.
 
 ### CPU
 
+Central Processing Unit
+
 Heart and brain of the computer.
 Every core in a CPU executes instructions.
 An example of an instruction is to add two numbers, or read / write a small
 amount of data from or to memory.
+
 The clockspeed of a CPU is the number of instructions that each core can execute per
-Second.
+second.
 A 2.2 GHz CPU can execute 2.200.000.000 instructions per second.
 As a reference: 2.200.000.000 seconds are ~70 years.
 
 ### RAM
 
-Random Access Memory. The working memory of the computer.
+Random Access Memory.
+
+The working memory of the computer.
 Everytime the power supply is stopping the RAM gets erased.
 RAM is organized as bytes, each containing 8 bits.
+
 Every byte in RAM has an address, which the CPU uses to specify at which
 position data should be read or written.
-The addresses are also called **pointers**
+These addresses are also called **pointers**
 
 ### Mainboard
 
 Connects all the different components of the computer.
 Prewired cables through which signals can travel from one component to the
 other.
-A prewired connection between two components is often called a **bus**.
 
-### I/O
+The prewired connections between components are often called a **busses**.
+
+### I/O - Input Output
 
 #### Hard Drive
 
-Persistent Memory. In contrast to RAM, it's much slower, but also cheaper for
-the given size.
+Persistent Memory. The data stored on a hard drive won't be lost when the power
+supply is shut down. In contrast to RAM, it's much slower, but also cheaper for
+a given size.
 
 #### Network Controller
 
@@ -61,8 +69,17 @@ hardware component that can be connected to one of the busses.
 
 - What is a 2.2 GHz Dual Core Processor?
 - How much GB's of RAM does your computer have?
-- What are the differences between RAM and Hard Drives?
+- What are the differences between RAM and hard drives?
 - What is a **hardware driver**?
 - Which other computer components can you name?
-- What are the different methods that bytes can be send over a network?
 - Try to name as many different devices that are computers as possible.
+
+### Terminology
+
+- CPU
+- RAM
+- Motherboard
+- I/O
+- Bus
+- Volatile and persitent memory
+- Pointers
