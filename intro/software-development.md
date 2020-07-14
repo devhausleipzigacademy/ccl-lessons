@@ -51,24 +51,27 @@ characters and no formatting (except for tabs and new line characters)
 
 ## Programming Language
 
-A programming language is a language made up by an individual for the purpose of
-writing instructions for a computer to execute in a human-readable manner.
+A programming language is a language designed for the purpose of writing
+instructions for a computer in a human-readable manner.
 
-Because these instructions have to be very precise in order for a program to
-work properly, the grammar and syntactic rules of a programming language are
-much stricter and narrower than in a natural language like german or english.
+In constrast to a natural language there is very little room for ambiguities and
+errors. Any single instruction that is slightly misinterpreted by a computer
+could potentially break the whole program. This is why the grammar and syntactic
+rules of a programming language are much stricter and narrower than in a natural
+language like german or english.
 
-This is necessary to prevent ambiguities and also to simplify the
-implementation of a compiler.
+This narrowness also simplifies the implementation of a compiler or other tools
+which understand or transform source code written in the programming language.
 
 [Examples: Learn X in Y Minutes](https://learnxinyminutes.com/)
 
 ## Compilation
 
 The process of converting source code written in a programming language into
-another language called the compilation target. The compilation target is often
-a machine language that can be directly fed to a CPU, but can also just be
-another programming language.
+another language. The programm doing this translation is called a compiler.
+
+The compilation target is often a machine language that can be
+directly fed to a CPU, but can also be some other programming language.
 
 ## Repository
 
