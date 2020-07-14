@@ -70,7 +70,7 @@ hardware component that can be connected to one of the busses.
 - What is a 2.2 GHz Dual Core Processor?
 - How much GB's of RAM does your computer have?
 - What are the differences between RAM and hard drives?
-- What is a **hardware driver**?
+- What is a hardware driver?
 - Which other computer components can you name?
 - Try to name as many different devices that are computers as possible.
 
@@ -84,4 +84,4 @@ hardware component that can be connected to one of the busses.
 - Bus
 - Volatile and persitent memory
 - Pointers
-- Hardware Driver
+- Hardware driver

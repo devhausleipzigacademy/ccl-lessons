@@ -76,4 +76,10 @@ also called **binary**
 - Binary
 - Hexadecimal
 
-### Challenge: Counting in binary with your fingers
+### Open Challenges / Exercises
+
+- Count in binary with your fingers. Try to keep track of the scores in some
+  fast paced agems, like thumb wrestling or rock paper scissors.
+- Write down the numbers from 0 to some arbitrary number in binary, hex and decimal
+- Pick a random number in either binary, hex, decimal and convert it into the
+  other two formats.
