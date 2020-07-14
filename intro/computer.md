@@ -84,3 +84,4 @@ hardware component that can be connected to one of the busses.
 - Bus
 - Volatile and persitent memory
 - Pointers
+- Hardware Driver
