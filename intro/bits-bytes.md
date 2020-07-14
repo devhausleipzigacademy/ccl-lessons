@@ -81,5 +81,9 @@ also called **binary**
 - Count in binary with your fingers. Try to keep track of the scores in some
   fast paced agems, like thumb wrestling or rock paper scissors.
 - Write down the numbers from 0 to some arbitrary number in binary, hex and decimal
-- Pick a random number in either binary, hex, decimal and convert it into the
+- Pick a random number in either binary, hex or decimal and convert it into the
   other two formats.
+- Write down two numbers in binary and try to add them together.
+- Try the same thing with multiplication. First start by multiplying a binary
+  number with 2 then 4 then 8. Then try multiplying two arbitrary numbers.
+- Try dividing an even number written in binary by 2.
