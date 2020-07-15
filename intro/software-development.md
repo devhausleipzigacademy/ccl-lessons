@@ -108,7 +108,10 @@ a compiler.
 ## Open Exercises
 
 - Scroll through [Learn X in Y Minutes](https://learnxinyminutes.com/) and explore the different programming languages.
-- Study the structure of the [ASCII table](http://dcjtech.info/wp-content/uploads/2015/10/ASCII-Cheatsheet.pdf). Can you make sense of why it is
-  designed the way it is?
+- Study the structure of the [ASCII
+  table](http://dcjtech.info/wp-content/uploads/2015/10/ASCII-Cheatsheet.pdf).
+  Can you make sense of why it is designed the way it is?
+- Write a short sentence and encode it by hand using ASCII into a byte pattern (two hex
+  digits per letter). Then send the message to another camper to decode.
 - Scroll through [GitHub](https://github.com/trending) and look for popular repositories in different languages
   and browse through the directory structure.
