@@ -107,8 +107,8 @@ a compiler.
 
 ## Open Exercises
 
-- Scroll through Learn X in Y Minutes and explore the different programming languages.
-- Study the structure of the ASCII table. Can you make sense of why it is
+- Scroll through [Learn X in Y Minutes](https://learnxinyminutes.com/) and explore the different programming languages.
+- Study the structure of the [ASCII table](http://dcjtech.info/wp-content/uploads/2015/10/ASCII-Cheatsheet.pdf). Can you make sense of why it is
   designed the way it is?
-- Scroll through GitHub and look for popular repositories in different languages
+- Scroll through [GitHub](https://github.com/trending) and look for popular repositories in different languages
   and browse through the directory structure.
