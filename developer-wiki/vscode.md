@@ -103,6 +103,12 @@ One way to do so is to create a subdirectory in your user home directory called
 - Create a new repository called `developer-wiki`, open it in VS code and add
   some files
 - Create a dock / task bar entry for VS Code, so you can open it quickly.
+- Change the default tab size in VSCode to 2 spaces through the settings panel.
+- Open Settings as **JSON** using the command palette and add this line to
+  enable word-wrapping
+  ```json
+    "editor.wordWrap": "on",
+  ```
 
 ## Check Questions
 
