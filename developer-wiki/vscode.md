@@ -104,6 +104,18 @@ One way to do so is to create a subdirectory in your user home directory called
   some files
 - Create a dock / task bar entry for VS Code, so you can open it quickly.
 
+## Check Questions
+
+- Can you name the essential tools necessary for software development and
+  explain what their job is?
+- What rule can you follow to make sure your keyboard shortcut repertoire in VS
+  Code will constantly grow?
+- What is the purpose of the Developer folder?
+- Why do we use VS Code to open entire folders instead of individual files?
+- How can you check which folder is currently opened in VS Code?
+- How can you lookup a keyboard shortcut in VS Code?
+- What's the best method to quickly open a file within VS Code?
+
 ## Open Exercises
 
 - Train to move through the VS Code window without moving the mouse.

@@ -5,10 +5,9 @@ software development wiki.
 
 ## Tasks
 
-1. VS Code: The software development toolkit
+1. VS Code: Swoftware development toolkit
 2. Markdown: A developer's word processor
-3. Structuring Data: Trees & Graphs
-4. The Shell: Speaking to the kernel
-5. Git: Managing source code
-6. Creating a developer wiki
-7. First deployment
+3. The Terminal: Talking to the kernel
+4. Git: Managing source code
+5. Creating a developer wiki
+6. First deployment
