@@ -89,6 +89,11 @@ Eum, praesentium.
 [Link to google](https://google.com)
 ```
 
+### Cheatsheet
+
+[Markdown
+Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ## README
 
 A README is a text file that introduces and explains a project. It contains
