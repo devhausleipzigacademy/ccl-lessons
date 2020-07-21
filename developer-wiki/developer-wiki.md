@@ -2,9 +2,11 @@
 
 ## Goal
 
-A website, which contains relevant information for software developers and can
-be used as a template for collecting ones notes throughout the camp and also for
-the future.
+We are going to create website to host your own cheatsheets and articles, blog
+posts, your project portfolio, a link collection and many more things. Don't
+hesitate to customize and expand it to make it your own. The goal is for you to
+create your own online space as a software developer to collect resources and
+content that's relevant to you and to share it with others.
 
 ### Features
 
@@ -15,7 +17,7 @@ the future.
 ### Docsify
 
 We are going to use docsify as a site generator. Docsify is able to load
-markdown files dynamically and create a linked website
+markdown files dynamically to create a complete website.
 
 ### Tutorial
 
