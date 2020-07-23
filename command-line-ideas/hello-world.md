@@ -10,7 +10,6 @@ autopsy of the interpreter.
 ![Javascript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 
 - Invented in the 95 by Brendan Eich in **10 days** at Netscape (Mozilla)
--
 - Designed to embed programs into websites. Today used for everything.
 - Has nothing to do with Java, name was just (bad) marketing
 - Official name: **ECMAScript**
@@ -19,6 +18,7 @@ autopsy of the interpreter.
 - Today "hottest" technology, slowly becoming the new lingua franca of programming.
 
 [Github Popluarity Comparison of different languages](https://githut.info/)
+
 [ECMA Script Language Standard](https://www.ecma-international.org/ecma-262/10.0/index.html#Title)
 
 ## Language Features
@@ -37,9 +37,9 @@ autopsy of the interpreter.
   performance critical and
   _"close to the metal"_ programming.
 
-[Programming Language Benchmark
-Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/which-programs-are-fastest.html)
-[List of Javascript Engines](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
+- [Programming Language Benchmark
+  Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/which-programs-are-fastest.html)
+- [List of Javascript Engines](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
 
 ## Running Javascript
 
@@ -196,10 +196,10 @@ parseInt("100", 7);
 
 ## Resources
 
-[MDN: Mozilla Developer Network Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-[Free and excellent online book: Eloquent Javascript](https://eloquentjavascript.net/)
+- [MDN: Mozilla Developer Network Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+- [Free and excellent online book: Eloquent Javascript](https://eloquentjavascript.net/)
 
 ## Open Exercises
 
-- Run some code snippets in the browser
+- Run some code snippets in the browser and in node.
 - Write a script and use the VS Code debugger to step through the program.
