@@ -26,3 +26,14 @@ extra steps are necessary.
 - What kind of websites can be deployed using GitHub pages? Which ones can't?
 - How could a deployment method that wouldn't be caracterized as continous
   delivery look like?
+
+## Websites
+
+- [Codedon (Issah)](https://i-ssah.github.io/codedon/)
+- [Codebook (Daniel)](https://danicvj.github.io/codebook/)
+- [Codebook (Mo)](https://breakingbad111.github.io/CodeBook/#/)
+- [Mathias code journey](https://mfidel1205.github.io/Mathias-code-Journey/#/)
+- [First little thing(Franziska)](https://hanni-ingrid.github.io/first-little-thing/#/)
+- [An honest mess (Michaela)](https://mnapearson.github.io/anhonestmess/)
+- [Code cheatsheets (Mat)](https://matpobrien.github.io/code-cheatsheets/#/)
+- [Sheet my cheat (Dorian)](https://samy9401.github.io/sheet-my-cheat/#/)
