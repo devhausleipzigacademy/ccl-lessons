@@ -98,7 +98,7 @@ It's syntax is similar to Javascript with a few exceptions:
 
 ### JSON Parser
 
-![JSON Parser](json-parser.svg)
+![JSON Parser](https://gabrielheinrich.github.io/ccl-lessons/command-line-ideas/json-parser.svg)
 
 ### Examples
 
