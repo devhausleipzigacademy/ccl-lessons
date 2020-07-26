@@ -1,4 +1,4 @@
-# The six fundamental challenges of machine code
+# The six challenges of machine code
 
 The machine language a CPU
 understands is optimized for fast execution, but is far from being convenient to
