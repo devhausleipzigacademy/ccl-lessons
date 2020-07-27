@@ -4,33 +4,34 @@
 
 ### Number
 
-```
-42 // Integer
-42.53 // Floating Point
-4.2e9 // Scientific notation
+```js
+42; // Integer
+42.53; // Floating Point
+4.2e9; // Scientific notation
+0xabcd; // Hexadecimal
+0b10100100; // Binary
 
 // Special Values
 
-Infinity
-NaN // Not a Number
+Infinity;
+NaN; // Not a Number
 ```
 
 ### String
 
-```
-'Down on the sea'
-"Lie on the ocean"
-`Float on the ocean`
+```js
+"Down on the sea";
+"Lie on the ocean"`Float on the ocean`;
 
 // Special characters have to be *escaped* using a backslash
-"A newline \n a tab \t a backslash \\ and a double-quote \" walk into a bar..."
+('A newline \n a tab \t a backslash \\ and a double-quote " walk into a bar...');
 ```
 
 ### Boolean
 
-```
-true
-false
+```js
+true;
+false;
 ```
 
 ### Null & Undefined
@@ -38,9 +39,9 @@ false
 These values are used to signify the absence of an actual value. Code should be
 written so they can be used interchangeably.
 
-```
-null
-undefined
+```js
+null;
+undefined;
 ```
 
 ### Array
@@ -55,6 +56,12 @@ undefined
 ### Object
 
 ```js
+{} // empty
+{
+  red: 0xff,
+  green: 0xff,
+  blue: 0xff
+}
 {
   name: "Rick Sanchez",
   age: 70,
@@ -69,14 +76,6 @@ undefined
     "The Big R.",
     "Smartest man in the universe"
   ]
-}
-```
-
-### Function
-
-```js
-function greeting(name) {
-  return "Hello " + name + "!";
 }
 ```
 
