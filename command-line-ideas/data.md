@@ -23,7 +23,7 @@ NaN; // Not a Number
 "Down on the sea";
 "Lie on the ocean"`Float on the ocean`;
 
-// Special characters have to be *escaped* using a backslash
+// Special characters have to be escaped using a backslash
 ('A newline \n a tab \t a backslash \\ and a double-quote " walk into a bar...');
 ```
 
