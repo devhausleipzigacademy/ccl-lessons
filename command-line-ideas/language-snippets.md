@@ -39,7 +39,7 @@ days they are likely to still live.
 process.argv[2];
 
 // Convert a string into a Date object
-const birthdayAsString = "06.02.1991";
+const birthdayAsString = "6. February 1991";
 const birthdayAsDate = new Date(birthdayAsString);
 
 // Get the current date

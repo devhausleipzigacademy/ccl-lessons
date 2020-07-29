@@ -132,7 +132,7 @@ An alternative approach to string concatenation is to use a string literal surro
 ```js
 const name = "Rick";
 // + operator with strings
-"Hello" + name = "!"; // "Hello Rick!"
+"Hello" + name + "!"; // "Hello Rick!"
 
 // String interpolation
 `Hello ${name}!`; // "Hello Rick!"
@@ -278,13 +278,16 @@ player1["score"]; // 256
 // Read: We lookup the key score in the object player1
 // Or: The score of player1
 
-player1.score; //256
+player1.score; // 256
 // Syntactic sugar for player1["score"]
 
 // Deep nesting is very common
 document.body.children.length;
 // Read: document dot body dot children dot length
 // Or: document body children length
+
+// length is a property of arrays
+fruits.length; // 3
 ```
 
 ### 2.6 - Other operators
