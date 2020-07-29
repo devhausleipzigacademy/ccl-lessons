@@ -1,5 +1,10 @@
 # Creating a developer wiki
 
+[Video: How websites
+work](https://us02web.zoom.us/rec/play/6Z0kde_5rG03G4CX5gSDBaR-W42_K_2shHAarvNenRrjAHFVOlOhYrRBYuGpk8-XdbORgS26k-OrQRLD?autoplay=true&startTime=1595407703000)
+
+[Video: Trees](https://us02web.zoom.us/rec/play/vJwtd7qu-Gg3T9GQuASDVvUtW46_Kq6s1ykY-6YJmErhV3MAZganZLFEYOJmGOdzjA-dOLpY3WRZQgMA?autoplay=true&startTime=1595506114000)
+
 ## Goal
 
 We are going to create website to host your own cheatsheets and articles, blog

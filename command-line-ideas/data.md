@@ -1,5 +1,10 @@
 # Data: modelling the world
 
+[Video: JSON
+Intro](https://us02web.zoom.us/rec/share/3OVKILfh8XlIeM_ty12CfrMDENT0aaa81yIZ_6cFmEYt19usto76Dm77khrRSezu?startTime=1595937781000)
+
+[Video: Presentation Data Modelling](https://us02web.zoom.us/rec/share/3OVKILfh8XlIeM_ty12CfrMDENT0aaa81yIZ_6cFmEYt19usto76Dm77khrRSezu?startTime=1595946870000)
+
 ## Javascript Universe
 
 ### Number

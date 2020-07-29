@@ -1,5 +1,9 @@
 # Speaking Javascript
 
+[Video: Part 1](https://us02web.zoom.us/rec/share/zvctcenWqk1JXZH14kv6ZYkgRp_9X6a8hiIe_fNey0iqlp1hLTPhD4VYHIODbzmv?startTime=1596010222000)
+
+[Video: Part 2](https://us02web.zoom.us/rec/share/zvctcenWqk1JXZH14kv6ZYkgRp_9X6a8hiIe_fNey0iqlp1hLTPhD4VYHIODbzmv?startTime=1596024434000)
+
 [Code Snippets](https://codecampleipzig.netlify.app/lesson/markdown?url=https%3A%2F%2Fgabrielheinrich.github.io%2Fccl-lessons%2Fcommand-line-ideas%2Flanguage-snippets.md)
 
 ## Summary

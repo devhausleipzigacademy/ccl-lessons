@@ -1,5 +1,7 @@
 # Markdown: A developer's word processor
 
+[Video](https://us02web.zoom.us/rec/share/u88pcI-o5jJOZK-c-RrRA_U4Ht_DX6a8h3BPqKEJyUu3aeSq5nx5iAsaOfuqmdrH?startTime=1595231703000)
+
 - Why do we need formatted text documents? When is plain text not enough?
 - How can we create formatted text documents?
 - What's wrong with using .docx?

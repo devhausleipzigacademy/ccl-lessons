@@ -1,5 +1,13 @@
 # The six challenges of machine code
 
+[Video: Part
+1](https://us02web.zoom.us/rec/play/tMAlc-mg-Dw3G4Wc5ASDBaV7W9W-K_ms2yhIrqZYmBrgBSYDZlL3ZbUXYLB0PRplW4p43dt2OfruCjyE?autoplay=true&startTime=1595837751000)
+
+[Video: Part
+2](https://us02web.zoom.us/rec/share/wetSDo6q8jJIG5WKtXuGSv8sXdTiT6a8hChLqKIFz071hVq0jpGrk5ivyRiNKqiV?startTime=1595851402000)
+
+[Video: Part3](https://us02web.zoom.us/rec/share/3OVKILfh8XlIeM_ty12CfrMDENT0aaa81yIZ_6cFmEYt19usto76Dm77khrRSezu?startTime=1595924301000)
+
 The machine language a CPU
 understands is optimized for fast execution, but is far from being convenient to
 read and write for a human.
