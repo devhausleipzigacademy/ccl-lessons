@@ -21,7 +21,7 @@
 
 ### Conditionals & Logic
 
-- [Minimal I: If Boolean Then Boolean](https://edabit.com/challenge/bRBSvWtCXws329qmF
+- [Minimal I: If Boolean Then Boolean](https://edabit.com/challenge/bRBSvWtCXws329qmF)
 
 ### Arrays
 
@@ -59,15 +59,6 @@
 - [Which function returns the highest number](https://edabit.com/challenge/o7TwicAHWuMkjbDqQ)
 - [A redundant function](https://edabit.com/challenge/hzxN9bAebBPNqdQto)
 - [Adding suffixes](https://edabit.com/challenge/Ra85gzkCTtXrNyCag)
-
-### Series
-
-#### Genetic Algorithm Series
-
-- [Genetic algorithm #1](https://www.codewars.com/kata/567d609f1c16d7369c000008)
-- [Genetic algorithm #2](https://www.codewars.com/kata/genetic-algorithm-series-number-2-mutation)
-- [Genetic algorithm #3](https://www.codewars.com/kata/567d71b93f8a50f461000019)
-- [Genetic algorithm #4](https://www.codewars.com/kata/567b468357ed7411be00004a)
 
 ### Recursion
 
@@ -145,3 +136,12 @@
 - [Binary To Text: 6kyu](https://www.codewars.com/kata/5583d268479559400d000064)
 - [Find Screen Size: 7kyu](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f)
 - [Responsible Drinking: 7kyu](https://www.codewars.com/kata/5aee86c5783bb432cd000018)
+
+### Serieses
+
+#### Genetic Algorithm Series
+
+- [Genetic algorithm #1](https://www.codewars.com/kata/567d609f1c16d7369c000008)
+- [Genetic algorithm #2](https://www.codewars.com/kata/genetic-algorithm-series-number-2-mutation)
+- [Genetic algorithm #3](https://www.codewars.com/kata/567d71b93f8a50f461000019)
+- [Genetic algorithm #4](https://www.codewars.com/kata/567b468357ed7411be00004a)
