@@ -123,7 +123,6 @@ for (let i = 1; i <= 10; ++i) {
 ```js
 const character = "#";
 let result = "";
-const targetLength = 10;
 while (result.length < 10) {
   result = result + character;
 }
