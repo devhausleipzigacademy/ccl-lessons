@@ -214,8 +214,8 @@ setTimeout(() => {
 
 ```js
 document.body.addEventListener("click", (event) => {
-  alert ("You clicked, and this was the triggered event:" event)
-})
+  alert("You clicked, and this was the triggered event:", event);
+});
 ```
 
 ### Exercises
