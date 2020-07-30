@@ -165,7 +165,7 @@ s and S => 5
 
 ```js
 const makeNoise = function () {
-  console.log("\u0007");
+  console.log("\u{7}");
 };
 
 makeNoise();
@@ -179,10 +179,43 @@ const min = function (a, b) {
     return b;
   }
 };
+
 min(1, 3);
 
 const x = 1;
 min(3, x);
+```
+
+Function as values
+
+```js
+let launchMissles = function () {
+  console.log("Kabooom!");
+};
+
+if (safeMode) {
+  launchMissles = () => {
+    console.log("Nothing happens...");
+  };
+}
+
+launchMissles();
+```
+
+Function as argument
+
+```js
+const timeInMs = 10000;
+
+setTimeout(() => {
+  console.log("10 seconds have passed...");
+}, timeInMs);
+```
+
+```js
+document.body.addEventListener("click", (event) => {
+  alert ("You clicked, and this was the triggered event:" event)
+})
 ```
 
 ### Exercises
