@@ -176,14 +176,13 @@
 
 1. Start with a Marketing Poster
 2. Create Example Data
-3.
-4. Analyse the interactions
-5. Draw the UI
-6. Be an architect
-7. Create a comfortable development setup
-8. Build a skeleton & establish connections
-9. Deploy ASAP
-10. Build a detailed fake UI
-11. Pick one part and finish it, then repeat
-12. Do refactoring sessions
-13. Prepare for release
+3. Analyse the interactions
+4. Draw the UI
+5. Be an architect
+6. Create a comfortable development setup
+7. Build a skeleton & establish connections
+8. Deploy ASAP
+9. Build a detailed fake UI
+10. Pick one part and finish it, then repeat
+11. Do refactoring sessions
+12. Prepare for release
