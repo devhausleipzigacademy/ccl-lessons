@@ -57,6 +57,19 @@ fs.unlinkSync("./example.txt");
 
 [Slides](https://reveal-viewer.netlify.app/?md=https://raw.githubusercontent.com/gabrielheinrich/ccl-lessons/master/command-line-ideas/methodology.md)
 
+1. Start with a Marketing Poster
+2. Create Example Data
+3. Analyse the interactions
+4. Draw the UI
+5. Be an architect
+6. Create a comfortable development setup
+7. Build a skeleton & establish connections
+8. Deploy ASAP
+9. Build a detailed fake UI
+10. Pick one part and finish it, then repeat
+11. Do refactoring sessions
+12. Prepare for release
+
 ### Development Steps
 
 - Come up with a short summary for README
