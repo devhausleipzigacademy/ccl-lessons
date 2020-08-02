@@ -11,6 +11,14 @@
 
 ## Important Functions
 
+### Reading command line arguments
+
+```js
+process.argv[0]; // path to node executable
+process.argv[1]; // path of currently running script
+process.argv[2]; // first user argument
+```
+
 ### Parse JSON: String -> Object
 
 ```js
@@ -69,26 +77,6 @@ fs.unlinkSync("./example.txt");
 10. Pick one part and finish it, then repeat
 11. Do refactoring sessions
 12. Prepare for release
-
-### Development Steps
-
-- Come up with a short summary for README
-- Create example data
-- Analyse Interactions
-- Write `--help` output
-- Architecture (short) & API
-- Setup npm project with README & License
-- Basic Hello World CLI
-- Test the deployment
-- Develop Components
-  - Show Help
-  - Read File
-  - Write File
-  - Clear File
-  - List Ideas
-  - Create Ideas
-  - Remove Ideas
-- Refactor
 
 ## Refactoring
 
