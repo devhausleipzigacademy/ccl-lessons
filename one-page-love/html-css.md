@@ -3,6 +3,8 @@
 - [HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
+- [Exercie GitHub Repo](https://github.com/gabrielheinrich/html-css-intro)
+
 ## HTML
 
 Hyper Text Markup Language: Inspired by the idea of markup
