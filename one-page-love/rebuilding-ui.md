@@ -2,7 +2,7 @@
 
 Boxes all the way down
 
-![Box Model](<[box-model.png](https://gabrielheinrich.github.io/ccl-lessons/one-page-love/box-model.png)>)
+![Box Model](https://gabrielheinrich.github.io/ccl-lessons/one-page-love/box-model.png)
 
 ## 1. Sizing
 
