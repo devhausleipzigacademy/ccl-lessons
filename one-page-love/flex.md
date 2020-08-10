@@ -138,7 +138,7 @@ Media queries allow you to customize CSS for different devices.
 }
 
 /* for screens wider than 420px display pictures in the gallery on rows */
-@media (max-width: 420px) {
+@media screen and (max-width: 420px) {
   .gallery {
     flex-direction: row;
     flex-wrap: wrap;
