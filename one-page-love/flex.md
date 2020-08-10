@@ -1,4 +1,4 @@
-# Flex & Grid
+# Flex & Grid: Responsive Layouts
 
 ## Resources
 
@@ -8,7 +8,7 @@
 
 [Flexyboxes allows you to see code samples and change parameters to see how Flexbox works visually](https://the-echoplex.net/flexyboxes/)
 
-## Outline
+## Flex
 
 ### 1. Terminology
 

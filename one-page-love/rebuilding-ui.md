@@ -2,7 +2,10 @@
 
 Boxes all the way down
 
-![Box Model](https://gabrielheinrich.github.io/ccl-lessons/one-page-love/box-model.png)
+![Box
+Model](https://gabrielheinrich.github.io/ccl-lessons/one-page-love/box-model.png)
+
+[CSS Katas Repo](https://github.com/gabrielheinrich/css-katas)
 
 ## 1. Sizing
 
