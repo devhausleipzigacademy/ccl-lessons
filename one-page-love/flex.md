@@ -127,3 +127,23 @@ The default value is `flex-wrap: nowrap`. This will cause everything to stay in 
 `align-content` is used for aligning items with multiple lines. It is for aligning on the cross axis and will have no effect on content that is one line.
 
 Here are the options: `align-content: flex-start | flex-end | center | space-between | space-around | stretch;`
+
+## Media Queries
+
+Media queries allow you to customize CSS for different devices.
+
+```css
+.gallery {
+  flex-direction: column;
+}
+
+/* for screens wider than 420px display pictures in the gallery on rows */
+@media (max-width: 420px) {
+  .gallery {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}
+```
+
+[Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
