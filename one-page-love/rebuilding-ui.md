@@ -2,10 +2,14 @@
 
 Boxes all the way down
 
+## Resources
+
+[CSS Katas Repository](https://github.com/gabrielheinrich/css-katas)
+
+## CSS Box Model
+
 ![Box
 Model](https://gabrielheinrich.github.io/ccl-lessons/one-page-love/box-model.png)
-
-[CSS Katas Repo](https://github.com/gabrielheinrich/css-katas)
 
 ## 1. Sizing
 
