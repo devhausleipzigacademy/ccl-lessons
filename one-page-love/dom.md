@@ -91,7 +91,7 @@ app.classList.toggle("dark-mode");
 ```js
 const loginButton = document.getElementById("login-button");
 
-loginButton.addEventListener("click", (event) => {
+loginButton.addEventListener("click", function (event) {
   console.log("Logging you in ...");
   console.log(event);
 });
