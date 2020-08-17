@@ -6,6 +6,7 @@ Website?
 ## Resources
 
 [Vue Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
+
 [Vue Documentation](https://vuejs.org/v2/guide/)
 
 ## Frontend Frameworks
@@ -36,9 +37,7 @@ You can create new custom html tags like `<home>`, `<menu>` etc...
 Instead of requesting individual pages from the server, Javascript is used
 to update the content of the page if you browse through the sub pages of a website.
 
-## Getting Started
-
-### Setting Up Vue
+## Importing Vue
 
 Include the javascript library in the `<head>` of your html document
 
@@ -49,7 +48,7 @@ Include the javascript library in the `<head>` of your html document
 In a production context all library code would be bundled using a tool called
 webpack.
 
-### `new Vue`: Initializing the Vue Instance
+## `new Vue`: Initializing the Vue Instance
 
 Before vue can be used in your app, we have to create a vue instance using the
 `Vue` constructor.
@@ -60,7 +59,7 @@ const app = new Vue({
 });
 ```
 
-#### Plugging into an element
+### Plugging into an element
 
 Vue needs to know where you want it to render its output in the DOM.
 
@@ -76,7 +75,7 @@ In your html you should have a corresponding element with the id `app`
 <div id="app"><!-- Here Vue will render its output --></div>
 ```
 
-### `data` and `{{}}`: Displaying Data
+## `data` and `{{}}`: Displaying Data
 
 The Vue constructor expects another option called `data` which can contain an object of values
 
@@ -117,7 +116,7 @@ document.getElementById(
 **Note**: The Vue version will automatically keep HTML and JS in sync, while
 you'll have to execute the Vanilla snippet after every change to wrongGuesses.
 
-### `v-on` and `methods`: Event Listeners and Functions
+## `v-on` and `methods`: Event Listeners and Functions
 
 Every component as well as the vue instance can have methods. You define them by
 adding a method key that looks like this
@@ -163,7 +162,7 @@ document.getElementById("start-button", () => {
 });
 ```
 
-### `computed`: Transforming data on the fly
+## `computed`: Transforming data on the fly
 
 Computed properties are not stored statically like data properties, but are getting recomputed on
 the fly whenever a data property changes. They are defined using functions
@@ -190,7 +189,7 @@ In the template they can be used just like regular properties
 <div>{{revealedWord}}</div>
 ```
 
-### `v-if`: Conditional rendering
+## `v-if`: Conditional rendering
 
 Often we want individual html elements to only appear under specific conditions on the page.
 Remember the slide in menu from the one pager or the message send screen from the company website.
@@ -211,7 +210,7 @@ It can also combine it with an v-else and also v-else-if to create more complex 
 <div v-else>{{revealedWord}}</div>
 ```
 
-### `v-for`: List rendering
+## `v-for`: List rendering
 
 Often we want to create lists of similar html elements, which only differ in their content, but share the same structure.
 
@@ -251,7 +250,7 @@ Another possibility is to use the index. The syntax is slightly different
 <button v-for="(letter, index) in alphabet" :key="index">{{letter}}</button>
 ```
 
-### Life Cycle Hooks
+## Life Cycle Hooks
 
 It's possible to specify code that should be run based on events in the lifecycle of a component or the application.
 These have different names, e.g. `created`, `mounted`, `beforeDestroy` etc... and can be specified by adding them as a method to the options object.
