@@ -8,6 +8,7 @@
 
 ### VS Code Extensions
 
+- ESLint
 - Vetur
 - Vue VSCode Snippets
 
