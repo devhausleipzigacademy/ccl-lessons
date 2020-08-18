@@ -333,7 +333,7 @@ export default {
 };
 ```
 
-### Bonus: Persisting State in the Browser (Cookies)
+## Bonus: Persisting State in the Browser (Cookies)
 
 ```js
 // store a value behind a key
