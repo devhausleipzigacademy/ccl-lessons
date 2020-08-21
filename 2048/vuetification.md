@@ -250,6 +250,74 @@ Another possibility is to use the index. The syntax is slightly different
 <button v-for="(letter, index) in alphabet" :key="index">{{letter}}</button>
 ```
 
+## `v-model` Forms
+
+So far we have only seen reactivity work in one direction.
+When we change a data property the HTML gets automatically updated. It reacts to the change.
+
+When we work with forms however we also want to have a connection in the opposite direction.
+We might have a data property that should automatically synchronize with the value the user is inserting into the form.
+We call this a two-way data binding and we can create such a binding by adding the v-model directive to an input element
+
+Template
+
+```js
+<input v-model="playerName" placeholder="What's your name?" />
+```
+
+Javascript
+
+```js
+new Vue({
+  data: {
+    playerName: "";
+  }
+})
+```
+
+Now the `playerName` data property will always stay in sync with the contents of the input form.
+
+### `:style` and `:class` Dynamic Styling
+
+When we want to dynamically change the styling of our app, we can bind the style or class attributes using v-bind.
+
+### :style
+
+```js
+data {
+  backgroundColor: "#ffe300"
+}
+```
+
+```html
+<main
+  :style="{
+    backgroundColor: backgroundColor
+  }"
+></main>
+```
+
+CSS properties are translated to camelCase. You could also use their original kebap-case names, but would then have to wrap them in quotes.
+
+### :class
+
+The class attribute can be bound to a simple string **or** to an object. If it's
+bound to an object each key in the object will become a class name and will be applied to
+the element, if the value associated with the key is truthy.
+Here is an example where buttons get the class `button-error` or `button-success` to style a
+button based on whether it was a wrong or correct guess.
+
+```html
+<button
+  :class="{
+  'button-error': wrongGuesses.includes('A'),
+  'button-success': correctGuesses.includes('A')
+}"
+>
+  A
+</button>
+```
+
 ## Life Cycle Hooks
 
 It's possible to specify code that should be run based on events in the lifecycle of a component or the application.
