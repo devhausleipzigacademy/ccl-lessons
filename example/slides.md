@@ -1,5 +1,0 @@
-# Slide I
-
----
-
-# Slide II
