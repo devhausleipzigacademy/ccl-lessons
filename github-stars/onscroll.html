@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Picture Gallery</title>
+  </head>
+  <body>
+    <section>
+      <img
+        src="https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=953&q=80"
+        alt=""
+      />
+    </section>
+    <section>
+      <img
+        src="https://images.unsplash.com/photo-1484723091739-30a097e8f929?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=987&q=80"
+        alt=""
+      />
+    </section>
+    <section>
+      <img
+        src="https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+        alt=""
+      />
+    </section>
+    <section>
+      <img
+        src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
+        alt=""
+      />
+    </section>
+    <section>
+      <img
+        src="https://images.unsplash.com/photo-1546548970-71785318a17b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+        alt=""
+      />
+    </section>
+  </body>
+  <style>
+    body {
+      margin: 0;
+    }
+
+    section {
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    img {
+      width: 50vh;
+      height: 50vh;
+      object-fit: cover;
+    }
+
+    section:nth-of-type(1) {
+      background-color: hsl(10, 70%, 50%);
+    }
+
+    section:nth-of-type(2) {
+      background-color: hsl(40, 70%, 50%);
+    }
+
+    section:nth-of-type(3) {
+      background-color: hsl(70, 70%, 50%);
+    }
+
+    section:nth-of-type(4) {
+      background-color: hsl(100, 70%, 50%);
+    }
+
+    section:nth-of-type(5) {
+      background-color: hsl(130, 70%, 50%);
+    }
+
+    section:nth-of-type(6) {
+      background-color: hsl(160, 70%, 50%);
+    }
+
+    img {
+      opacity: 0;
+      transition: all 1s ease-in-out;
+      transform: scale(0);
+    }
+
+    .show {
+      opacity: 1;
+      transform: none;
+    }
+  </style>
+  <script>
+    const images = document.querySelectorAll("img");
+    setTimeout(() => images[0].classList.add("show"), 1000);
+    document.addEventListener("scroll", () => {
+      images.forEach((image) => {
+        if (image.offsetTop + 250 < window.pageYOffset + window.innerHeight) {
+          image.classList.add("show");
+        }
+      });
+    });
+  </script>
+</html>

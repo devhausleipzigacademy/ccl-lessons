@@ -277,7 +277,7 @@ new Vue({
 
 Now the `playerName` data property will always stay in sync with the contents of the input form.
 
-### `:style` and `:class` Dynamic Styling
+## `:style` and `:class` Dynamic Styling
 
 When we want to dynamically change the styling of our app, we can bind the style or class attributes using v-bind.
 
