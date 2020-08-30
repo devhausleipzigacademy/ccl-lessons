@@ -53,7 +53,7 @@ stick to the bottom of the browser window.
 ## 4. Responsive Grid
 
 Create a grid of cards, that automatically adjusts the number of columns based
-on the width of the viewport. Make sure every card has at least a width of 12rem
+on the width of the viewport. Make sure every card has at least a width of 18rem
 and there's always a gap of 1rem between cards.
 The max width of the whole grid should never extend past 1024px.
 
@@ -71,6 +71,10 @@ The max width of the whole grid should never extend past 1024px.
   <div style="padding: 1rem; background-color: blue;">Card</div>
 </div>
 </div>
+
+Extra: Give each card an actual layout with an image a title and some body text.
+
+[Inspiration](https://shoelace.style/components/card)
 
 ## 5. Vanilla Form Validation
 
