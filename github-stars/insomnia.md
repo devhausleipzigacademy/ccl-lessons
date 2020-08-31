@@ -1,8 +1,8 @@
-# Insomnia
+# Insomnia: Calling APIs
 
-How to call an API
+## Terminology
 
-## API
+### API
 
 a set of functions and procedures allowing the creation of applications that
 access the features or data of an operating system, application, or other
@@ -10,7 +10,7 @@ service. An application programming interface defines the
 kinds of calls or requests that can be made, how to make them, the data formats
 that should be used, the conventions to follow.
 
-## REST
+### REST
 
 Representational state transfer (REST) is a software architectural style that
 defines a set of constraints to be used for creating Web services. RESTful Web
@@ -39,13 +39,11 @@ stateless operations (CRUD).
 | Headers     | `"Cache-Control": "max-age=3600"` |
 | Body        | json, html, js, css, png, ...     |
 
-### Resources
+- [HTTP Status Codes](https://http.cat/)
 
-[HTTP Status Codes](https://http.cat/)
+- [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 
-[HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-
-## Insomnia App
+### Insomnia
 
 Insomnia is a GUI tool to execute HTTP Requests. You can use it to
 call any Web Service API. Start by installing it on your
@@ -53,7 +51,7 @@ computer:
 
 [insomnia.rest](https://insomnia.rest/)
 
-## Random API Exercise
+### API Challenge
 
 Use Insomnia and the linked API's and their documentation to complete these
 tasks. Don't Google the answers!!!
@@ -64,7 +62,7 @@ tasks. Don't Google the answers!!!
 - Download the astronomy picture of the day
 - How many search results do you get on GitHub if you search for vue
 
-### APIs
+#### API's
 
 - [Chuck Norris API](https://api.chucknorris.io/)
 - [Country API](https://restcountries.eu/)
@@ -78,7 +76,7 @@ tasks. Don't Google the answers!!!
 
 https://jsonplaceholder.typicode.com/
 
-## Resources
+### Resources
 
 - [API Best practices](https://github.com/elsewhencode/project-guidelines#api)
 - [JSON Server Reference](https://github.com/typicode/json-server)
@@ -95,8 +93,6 @@ https://jsonplaceholder.typicode.com/
 | Delete           | DELETE | /posts/1 |                                  | Delete post              |
 
 ### Query Parameters
-
-#### Examples
 
 Get all users named Bret
 
@@ -119,7 +115,7 @@ GET /posts?_sort=title&_order=asc
 For the full list of query parameters supported by the _json-placeholder_ api,
 see <https://github.com/typicode/json-server>
 
-##### CRUD REST API Exercise
+### CRUD REST API Exercise
 
 Use this fake api: https://jsonplaceholder.typicode.com/ and create the
 following requests in Insomnia
