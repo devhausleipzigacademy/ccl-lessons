@@ -62,7 +62,7 @@ tasks. Don't Google the answers!!!
 - Alofi is the capital of which country.
 - Get some programming quote
 - Download the astronomy picture of the day
-- How many search results do you get on GitHub if you search for vue
+- How many github repositories are written in javascript compared to python or php
 - Get the version of google.com from the 1. January 2000
 - Generate a random Avatar
 - For how many deaths was Walter White responsible throughout the series
