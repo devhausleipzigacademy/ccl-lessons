@@ -63,12 +63,13 @@ tasks. Don't Google the answers!!!
 - Get some programming quote
 - Download the astronomy picture of the day
 - How many github repositories are written in javascript compared to python or php
-- Use the Github API to render some markdown to html
 - Get the version of google.com from the 1. January 2000
 - Generate a random Avatar
 - For how many deaths was Walter White responsible throughout the series
   Breaking Bad
 - Get a wheather forecast for Leipzig
+- Use the Github API to render some markdown to html
+- Get the Github gitignore template for a node application
 
 #### API's
 
