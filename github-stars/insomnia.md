@@ -63,6 +63,7 @@ tasks. Don't Google the answers!!!
 - Get some programming quote
 - Download the astronomy picture of the day
 - How many github repositories are written in javascript compared to python or php
+- Use the Github API to render some markdown to html
 - Get the version of google.com from the 1. January 2000
 - Generate a random Avatar
 - For how many deaths was Walter White responsible throughout the series
@@ -75,7 +76,7 @@ tasks. Don't Google the answers!!!
 - [Country API](https://restcountries.eu/)
 - [Programming Quotes API](https://programming-quotes-api.herokuapp.com/)
 - [NASA API](https://api.nasa.gov/index.html)
-- [GitHub API](https://developer.github.com/v3/)
+- [GitHub API](https://docs.github.com/en/rest/reference)
 - [Internet Archive API](https://archive.readme.io/docs/website-snapshots)
 - [Avatar Generator API](https://avatars.dicebear.com/)
 - [Breaking Bad API](https://breakingbadapi.com/documentation)
