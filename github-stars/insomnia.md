@@ -1,6 +1,6 @@
 # Insomnia: Calling APIs
 
-## Terminology
+## Terminology: REST API
 
 ### API
 
@@ -20,6 +20,12 @@ stateless operations (CRUD).
 
 ## HTTP
 
+### Resources
+
+- [HTTP Status Codes](https://http.cat/)
+
+- [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+
 ### Requests
 
 |          | Example                                                      |
@@ -33,15 +39,11 @@ stateless operations (CRUD).
 
 ### Responses
 
-|             | Example(s)                        |
+|             | Example                           |
 | ----------- | --------------------------------- |
 | Status Code | 200 404 400 300, etc...           |
 | Headers     | `"Cache-Control": "max-age=3600"` |
 | Body        | json, html, js, css, png, ...     |
-
-- [HTTP Status Codes](https://http.cat/)
-
-- [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 
 ### Insomnia
 
@@ -58,23 +60,30 @@ tasks. Don't Google the answers!!!
 
 - Find a Chuck Norris Joke about linux.
 - Alofi is the capital of which country.
-- Get some random advice
+- Get some programming quote
 - Download the astronomy picture of the day
 - How many search results do you get on GitHub if you search for vue
+- Get the version of google.com from the 1. January 2000
+- Generate a random Avatar
+- For how many deaths was Walter White responsible throughout the series
+  Breaking Bad
+- Get a wheather forecast for Leipzig
 
 #### API's
 
 - [Chuck Norris API](https://api.chucknorris.io/)
 - [Country API](https://restcountries.eu/)
-- [Advice API](https://api.adviceslip.com/)
+- [Programming Quotes API](https://programming-quotes-api.herokuapp.com/)
 - [NASA API](https://api.nasa.gov/index.html)
 - [GitHub API](https://developer.github.com/v3/)
+- [Internet Archive API](https://archive.readme.io/docs/website-snapshots)
+- [Avatar Generator API](https://avatars.dicebear.com/)
+- [Breaking Bad API](https://breakingbadapi.com/documentation)
+- [Meta Wheather API](https://www.metaweather.com/api/)
 
 ## CRUD
 
 **C**reate **R**ead **U**pdate **D**elete
-
-https://jsonplaceholder.typicode.com/
 
 ### Resources
 
