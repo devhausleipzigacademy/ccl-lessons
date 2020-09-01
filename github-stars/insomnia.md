@@ -107,19 +107,19 @@ tasks. Don't Google the answers!!!
 
 Get all users named Bret
 
-```
+```none
 GET /users?name=Bret
 ```
 
 Get 3 page of posts, with 10 posts per page
 
-```
+```none
 GET /posts?_limit=10&_page=3
 ```
 
 Get all posts sorted by title
 
-```
+```none
 GET /posts?_sort=title&_order=asc
 ```
 
@@ -128,8 +128,11 @@ see <https://github.com/typicode/json-server>
 
 ### CRUD REST API Exercise
 
-Use this fake api: https://jsonplaceholder.typicode.com/ and create the
-following requests in Insomnia
+Clone and run this fake json server: <https://github.com/gabrielheinrich/fake-rest-server>
+
+Create the following requests in Insomnia.
+A documentation of all the features of the api can be found at
+<https://github.com/typicode/json-server>
 
 1. Get all users
 2. Get the photos for page 2 with 8 photos per page
@@ -140,6 +143,13 @@ following requests in Insomnia
 7. Update the todo with the id 4
 8. Update only the completed status of the todo with the id 4
 9. Do a full text search on the posts for the search term **dolor**
+
+Extra: Look at the structure of the data.json file in the repository. Replace
+the contents of the file to resemble the database of an online store with
+products, customers and orders and create API requests for common operations.
+
+Extra Extra: In the same manner design a database layout for another application
+of your choosing.
 
 ## Explore
 

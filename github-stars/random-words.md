@@ -2,18 +2,14 @@
 
 Building a simple Rest API with node and express.
 
-## Github Repo
+## Github Repo Setup
 
-## Creating a simple server
-
-## Setting up a controller
-
-## Using middleware
-
-CORS!!!
+## Standard Express Server
 
 ## Serving static files
 
-Write a Documentation for the API
+## Exercise
 
-## Integrating with Vue Hangman DIY
+Use the random word API to get new words for the Vue Hangman.
+
+Then add
