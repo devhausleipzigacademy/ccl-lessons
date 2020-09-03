@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      fetch("https://api.chucknorris.io/jokes/random")
+        .then((response) => {
+          // parse response as json
+          return response.json();
+        })
+        .then((data) => {
+          // data is the response as a js object
+          console.log(data);
+        })
+        .catch((err) => {
+          // either the fetch or the parsing went wrong
+          console.error(err);
+        });
+    </script>
+  </head>
+  <body></body>
+</html>

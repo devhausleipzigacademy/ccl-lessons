@@ -199,7 +199,7 @@ library and try to use it instead of fetch.
 
 Advanced: Create a GitHub search.
 Advanced Advanced: Try implementing instant results while the
-user is typing. Research debouncing to not create too many requests at once.
+user is typing. Research debouncing to limit the number of requests you are making.
 
 ## Extra
 

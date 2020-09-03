@@ -137,12 +137,15 @@ A documentation of all the features of the api can be found at
 1. Get all users
 2. Get the photos for page 2 with 8 photos per page
 3. Get the post with the id 42
-4. Fetch the error returned when trying to get the post with the id 999
+4. What status code and body is the API returning if you get the todo with the
+   id 999
 5. Create a new todo
 6. Delete the todo with id 4
-7. Update the todo with the id 4
-8. Update only the completed status of the todo with the id 4
+7. Update the todo with the id 6
+8. Update only the completed status of the todo with the id 6
 9. Do a full text search on the posts for the search term **dolor**
+10. Every post has a userId. Get all posts, but with each user expanded with the
+    data from the /users resource. Check the documentation first for how to do this.
 
 Extra: Look at the structure of the data.json file in the repository. Replace
 the contents of the file to resemble the database of an online store with
