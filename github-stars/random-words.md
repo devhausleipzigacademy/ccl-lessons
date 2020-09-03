@@ -93,5 +93,5 @@ Github Repo: <https://github.com/gabrielheinrich/pixel-arcade>
 
 Extra Tasks
 
-- Add the possibility to select
+- Add the possibility to select a category
 - Add better error handling.
