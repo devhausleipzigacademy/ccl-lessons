@@ -32,7 +32,7 @@
 
 ```sql
 CREATE TABLE events (
-  id integer AUTOINCREMENT PRIMARY KEY,
+  id integer PRIMARY KEY AUTOINCREMENT,
   title varchar(255) UNIQUE NOT NULL,
   date datetime NOT NULL,
   location varchar(255),
