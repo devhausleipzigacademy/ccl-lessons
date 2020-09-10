@@ -6,6 +6,8 @@
 
 [SQL Language Reference](https://www.sqlitetutorial.net/)
 
+[Slides](https://reveal-viewer.netlify.app/?md=https://raw.githubusercontent.com/gabrielheinrich/ccl-lessons/master/firestack/sql.md)
+
 ## Types of databases
 
 #### SQL Databases
