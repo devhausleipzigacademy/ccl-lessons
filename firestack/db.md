@@ -78,6 +78,14 @@ SELECT users.name users.email FROM event_attendees
   WHERE event_id = 5
 ```
 
+```sql
+CREATE TABLE event_attendees (
+  event_id INTEGER REFERENCES events(id),
+  attendee_id INTEGER REFERENCES users(id),
+  PRIMARY KEY(event_id, attendee_id)
+)
+```
+
 ## Exercises
 
 Setup a database schema for the following examples. Then insert some example
