@@ -8,7 +8,7 @@
 
 ##### Why do we need tests?
 
-## There's no other way to proof a program is working
+## There's no other way to proof a program is working at all
 
 ---
 
@@ -56,9 +56,13 @@
 
 ---
 
-#### Guideline
+#### Guideline 1
 
 ### Use different methods of testing in **combination** for maximum test efficency
+
+---
+
+#### Guideline 2
 
 ### Start with E2E
 
@@ -150,5 +154,4 @@ Execute test runner from the command line <!-- .element: class="fragment" -->
 
 - Requires more initial effort <!-- .element: class="fragment" -->
 - Testing is sometimes harder than writing the implementation <!-- .element: class="fragment" -->
-
----
+- When features change tests will have to be rewritten <!-- .element: class="fragment" -->

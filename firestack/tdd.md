@@ -78,3 +78,8 @@ it("should display all plants", () => {
   behind it?
 - Why is it impossible to proof that a program doesn't have any bugs using tests?
 - Name some benefits and drawbacks of using Test Driven Development
+
+## Exercise
+
+- Add integration tests for the Backend and Database using Cypress
+- Develop a Frontend for your API following a Test Driven Methodology
